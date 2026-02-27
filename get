@@ -1,7 +1,7 @@
 {
-  "gateway_url": "https://dozaeb.alkogolikam.ru:8090",
+  "gateway_url": "http://dozaeb.alkogolikam.ru:8090",
   "gateway_mirrors": [
-    "https://dozaeb.alkogolikam.ru:8090"
+    "http://dozaeb.alkogolikam.ru:8090"
   ],
   "bot_username": "dozavpn_bot",
   "min_app_version": 1,
