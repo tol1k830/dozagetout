@@ -1,9 +1,9 @@
 {
-  "gateway_url": "https://dozaeb.alkogolikam.ru:8443",
-  "bot_username": "your_bot_username",
-  "privacy_policy_url": "",
-  "terms_url": "",
-  "latest_version": "1.0.0",
-  "update_url": "",
-  "fallback_urls": []
+  "gateway_url": "https://gw.dozavpn.com:8443",
+  "gateway_mirrors": ["https://gw2.dozavpn.com:8443"],
+  "bot_username": "dozavpn_bot",
+  "min_app_version": 1,
+  "privacy_policy_url": "https://dozavpn.com/privacy",
+  "terms_url": "https://dozavpn.com/terms",
+  "updated_at": "2026-02-27T00:00:00Z"
 }
