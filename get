@@ -1,7 +1,7 @@
 {
-  "gateway_url": "https://dozaeb.alkogolikam.ru:3389",
+  "gateway_url": "https://vipny.ru/getaway/",
   "gateway_mirrors": [
-    "https://dozaeb.alkogolikam.ru:3389"
+    "https://vipny.ru/getaway/"
   ],
   "bot_username": "vpndoza_bot",
   "min_app_version": 1,
