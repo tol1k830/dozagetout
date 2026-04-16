@@ -1,1 +1,16 @@
-
+com.discord
+org.thoughtcrime.securesms
+org.telegram.messenger
+com.viber.voip
+com.whatsapp
+com.facebook.katana
+com.instagram.android
+com.twitter.android
+com.snapchat.android
+com.zhiliaoapp.musically
+com.linkedin.android
+com.roblox.client
+com.apple.facetime
+com.google.android.apps.meetings
+com.google.android.youtube
+com.cloudflare.onedotonedotonedotone
